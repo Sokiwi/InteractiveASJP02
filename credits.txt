@@ -1,0 +1,13 @@
+
+
+CREDITS CAN BE GIVEN IN SOMETHING LIKE THE FOLLOWING FORM (LESS CAN DO IT):
+The distances were produced by comparing lists of words pertaining to a set of 40 concepts specified in Holman et al. (2008).
+The word lists were transcribed using a system called ASJPcode, described in Holman et al. (2011). 
+Subsequently a modified version of the so-called Levenshtein or edit distance (cf. Wichmann et al. 2010) was used to compute word distances that were subsequently averaged for each pair of word lists. 
+The distances were computed using the program ASJP.R by Wichmann [if combined with Holman's software at https://asjp.clld.org/software please specify]. 
+All data is freely available from Wichmann et al. 2018 (http://asjp.clld.org/).
+References
+Holman, Eric W., Søren Wichmann, Cecil H. Brown, Viveka Velupillai, André Müller, and Dik Bakker. 2008. Explorations in automated language classification. Folia Linguistica 42.2: 331-354.
+Holman, Eric W., Cecil H. Brown, Søren Wichmann, André Müller, Viveka Velupillai, Harald Hammarström, Sebastian Sauppe, Hagen Jung, Dik Bakker, Pamela Brown, Oleg Belyaev, Matthias Urban, Robert Mailhammer, Johann-Mattis List, and Dmitry Egorov. 2011. Automated dating of the world's language families based on lexical similarity. Current Anthropology 52.6: 841-875.
+Wichmann, Søren, Eric W. Holman, Dik Bakker, and Cecil H. Brown. 2010. Evaluating linguistic distance measures. Physica A. 389: 3632-3639; doi:10.1016/j.physa.2010.05.011.
+Wichmann, Søren, Eric W. Holman, and Cecil H. Brown (eds.). 2018. The ASJP Database (version 18).

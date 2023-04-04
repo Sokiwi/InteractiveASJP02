@@ -1,0 +1,13 @@
+1. Create an empty folder and put all the files shared here in it. It is important that you don't use a folder that already has some ASJP-related stuff in it that could confuse the program.
+
+2. Within R, change the working directory to the one where you put the files (should be on the menu bar somewhere, but I don't use Mac so I am not sure where, exactly).
+
+3. In the R console, write source("ASJP.R")
+
+4. Now type ASJP() and press return.
+
+The program should guide you through everything. Just be sure that you actually read instructions at every step you go through. Should it crash you just restart by typing ASJP().
+
+At first uses a number of packages will be installed automatically, so make sure that you're online when you start using it. One particular package (xlsx) may be recalcitrant, refusing to get installed. If that problem arises a solution may be to install the latest version of Java and the latest version of R. But xlsx is only used if the user wants to transcribe own data.
+
+Please report bugs and/or let me know if there are additional functionalities that you would like to have and/or share your experience in general.
